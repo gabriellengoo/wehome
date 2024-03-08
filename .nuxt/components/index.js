@@ -1,6 +1,6 @@
-export const ImageGallery = () => import('../../components/ImageGallery.vue' /* webpackChunkName: "components/image-gallery" */).then(c => wrapFunctional(c.default || c))
-export const NuxtLogo = () => import('../../components/NuxtLogo.vue' /* webpackChunkName: "components/nuxt-logo" */).then(c => wrapFunctional(c.default || c))
-export const Tutorial = () => import('../../components/Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
+export { default as ImageGallery } from '../../components/ImageGallery.vue'
+export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
+export { default as Tutorial } from '../../components/Tutorial.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
