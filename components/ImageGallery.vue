@@ -25,8 +25,8 @@
         items: [
           // wearethenewhope we are the new hope Email
           { image: 'https://i.ibb.co/wpW0V4C/Asset-1.png', alt: 'Image 1', text: '', linkType: null, linkText: null },
-          { image: 'https://i.ibb.co/khT3YJg/tounge-ezgif-com-svg-to-png-converter.png', alt: 'Image 2', text: 'Email 📧', linkType: 'email', linkText: 'hello@wearerthenewhope.com' },
-          { image: 'https://i.ibb.co/ZVt0nh7/eyebrows-ezgif-com-svg-to-png-converter.png', alt: 'Image 3', text: 'Contact 📞', linkType: 'mail', linkText: 'hello@wearerthenewhope.com' },
+          { image: 'https://i.ibb.co/khT3YJg/tounge-ezgif-com-svg-to-png-converter.png', alt: 'Image 2', text: 'Email 📧', linkType: 'email', linkText: 'hello@wearethenewhope.com' },
+          { image: 'https://i.ibb.co/ZVt0nh7/eyebrows-ezgif-com-svg-to-png-converter.png', alt: 'Image 3', text: 'Contact 📞', linkType: 'mail', linkText: 'hello@wearethenewhope.com' },
           { image: 'https://i.ibb.co/HzGhRMP/smile-ezgif-com-svg-to-png-converter.png', alt: 'Image 4', text: 'Newsletter', linkType: 'newsletter', linkText: 'https://chisaraagor.us13.list-manage.com/subscribe?u=46ff04e97eb3776315d43168e&id=28bdaf8ec6' },
           { image: 'https://i.ibb.co/W2P07vC/eyestoright-ezgif-com-svg-to-png-converter.png', alt: 'Image 5', text: 'Site in development', linkType: null, linkText: null },
           // Add more items as needed
