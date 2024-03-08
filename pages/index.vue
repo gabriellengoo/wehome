@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <marquee class="marquee" behavior="scroll" direction="left" scrollamount="5">Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon</marquee> -->
-    <div class="marquee"><span>Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon</span></div>
+    <!-- <div class="marquee"><span>Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon  ✴︎   Coming Soon</span></div> -->
     <ImageGallery />
   </div>
 </template>
