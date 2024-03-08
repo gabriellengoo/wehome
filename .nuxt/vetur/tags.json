@@ -1,4 +1,7 @@
 {
+  "ImageGallery": {
+    "description": "Auto imported from components/ImageGallery.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
